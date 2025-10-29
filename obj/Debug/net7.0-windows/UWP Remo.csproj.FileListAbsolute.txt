@@ -1,0 +1,16 @@
+C:\Users\NeAdAppTar\source\repos\UWP Remo\obj\Debug\net7.0-windows\UWPCleaner.Form1.resources
+C:\Users\NeAdAppTar\source\repos\UWP Remo\obj\Debug\net7.0-windows\UWP Remo.csproj.GenerateResource.cache
+C:\Users\NeAdAppTar\source\repos\UWP Remo\obj\Debug\net7.0-windows\UWP Remo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NeAdAppTar\source\repos\UWP Remo\obj\Debug\net7.0-windows\UWP Remo.AssemblyInfoInputs.cache
+C:\Users\NeAdAppTar\source\repos\UWP Remo\obj\Debug\net7.0-windows\UWP Remo.AssemblyInfo.cs
+C:\Users\NeAdAppTar\source\repos\UWP Remo\obj\Debug\net7.0-windows\UWP Remo.csproj.CoreCompileInputs.cache
+C:\Users\NeAdAppTar\source\repos\UWP Remo\bin\Debug\net7.0-windows\UWP Remo.exe
+C:\Users\NeAdAppTar\source\repos\UWP Remo\bin\Debug\net7.0-windows\UWP Remo.deps.json
+C:\Users\NeAdAppTar\source\repos\UWP Remo\bin\Debug\net7.0-windows\UWP Remo.runtimeconfig.json
+C:\Users\NeAdAppTar\source\repos\UWP Remo\bin\Debug\net7.0-windows\UWP Remo.dll
+C:\Users\NeAdAppTar\source\repos\UWP Remo\bin\Debug\net7.0-windows\UWP Remo.pdb
+C:\Users\NeAdAppTar\source\repos\UWP Remo\obj\Debug\net7.0-windows\UWP Remo.dll
+C:\Users\NeAdAppTar\source\repos\UWP Remo\obj\Debug\net7.0-windows\refint\UWP Remo.dll
+C:\Users\NeAdAppTar\source\repos\UWP Remo\obj\Debug\net7.0-windows\UWP Remo.pdb
+C:\Users\NeAdAppTar\source\repos\UWP Remo\obj\Debug\net7.0-windows\UWP Remo.genruntimeconfig.cache
+C:\Users\NeAdAppTar\source\repos\UWP Remo\obj\Debug\net7.0-windows\ref\UWP Remo.dll
